@@ -1,0 +1,33 @@
+I am working on a demo of semantic embeddings for a group of qualitative researchers. In the demo, I want to show how semantic embeddings can help with the exploration of open-ended survey questions by identifying common themes through clustering techniques. For the demo, I need a number of survey responses that cover a variety of themes, but do show some reoccurring similarity.
+Generate 100 responses to the question:
+“What do you think was the biggest benefit of the Guarini Exchange program for your personal or professional development?”
+Make sure that the responses cover a variety of styles and experiences and are written in a realistic style, including typos and typical grammatical or syntactical issues.
+
+To help you generate plausible responses, here is the mission statement of the Guarini Institute:
+
+Vision
+We endeavor to prepare students for a lifetime of learning and ethical civic engagement through transformative global academic experiences.
+## Mission
+The Guarini Institute provides leadership and direction for the College’s rich portfolio of credit-bearing off-campus programs.
+## Approach
+*   Through a model of shared ownership with faculty, the Guarini Institute advances the College's internationalization goals by fostering integration of our off-campus programs with Arts & Sciences academic units and with the broader liberal arts curriculum.
+
+*   Our off-campus programs are designed to provide safe, rigorous learning experiences that promote disciplinary and interdisciplinary scholarship, foreign language acquisition, interaction with the natural environment, and intercultural agility in diverse global locations and cultural contexts.
+
+*   A distinguishing feature of Dartmouth's program portfolio is strong involvement by faculty which leads to the development of meaningful relationships between students and their faculty director mentors.
+
+*   The Guarini Institute supports evidence-based and ethical approaches to education abroad pedagogy, program design, and delivery.
+
+*   By remaining abreast of industry standards, staff at the Institute are able to offer one-on-one consultations with faculty as well as ongoing professional development opportunities for the broader education abroad campus community.
+
+*   We endeavor to establish and sustain mutually beneficial relationships with a global network of trusted and strategic partners.
+
+*   Students and faculty are expected to participate in meaningful pre- and post-program activities (academic prerequisites; cross-cultural, safety & logistical orientation; opportunities for reflection; continued study, research, etc.).
+
+*   In environments that combine challenge and support, Dartmouth's academic off-campus programs encourage students to take ownership of their personal growth and learning.
+
+*   Directing an off-campus program can provide opportunities for faculty to expand their professional networks, further their research, and engage in professional development. Programs should be flexible enough to accommodate faculty director research interest without compromising the coherence of the program or its continuity from year to year.
+
+I also attached a flier of some of the program offerings.
+
+Put the generated responses into a CSV format with a column for a unique respondent ID, a column for the respondent’s declared major, and a column with the response.

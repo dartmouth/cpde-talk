@@ -1,0 +1,7 @@
+[Following up on the survey response prompt]
+
+This is great. I also want to do a demo on how AI can help with coding of qualitative data. Generate an one page essay of a student’s reflection on one of the offered programs that can lend itself as a good example text to work on for this demo.
+
+[generated essay essay_1.md]
+
+That is a great example. Generate a second example essay.
