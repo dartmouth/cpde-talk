@@ -26,6 +26,8 @@ To run the code example, you need to install the requirements:
 pip install -r requirements.txt
 ```
 
+Then rename the file `.env-sample` to `.env` and fill in the value for `DARTMOUTH_CHAT_API_KEY` (see the [instructions here](https://rcweb.dartmouth.edu/~d20964h/2024-12-11-dartmouth-chat-api/api_key/) on how to obtain a key).
+
 Then run the Jupyter Notebook `demo/01-semantic_embeddings.ipynb`.
 
 
