@@ -1,6 +1,6 @@
 # CPDE: Artificial Intelligence in Qualitative Analaysis
 
-Slide deck and supplemental materials for the talk "Artificical Intelligence in Qualitative Analysis" given at the Center for Program Design & Evaluation's Lunch & Learn Session, March 10, 2025, Dartmouth College.
+Slide deck and supplemental materials for the talk "Artificial Intelligence in Qualitative Analysis" given at the Center for Program Design & Evaluation's Lunch & Learn Session, March 10, 2025, Dartmouth College.
 
 
 ## Contents
